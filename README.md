@@ -5,6 +5,11 @@ Python系をよく知らない方向け解説も書いておきました!(雑な
 Python environment  
 Pythonが使える環境であること(当然かもですが..一応...)  
 なければまずはインストールです!  
+
+## Download  
+https://github.com/yokonoha/monogusa-http-server/releases/download/first/server.py  
+You can get it directly by just clicking this link!↑  
+リリースページにいかず、直にダウンロードできます～(ものぐさ)  
 ## How to use  
 ### 1  
 Type here "cmd"!  

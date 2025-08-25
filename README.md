@@ -1,0 +1,2 @@
+# monogusa-http-server
+Pythonでhttpサーバーを立ち上げるときに、二次元コードも表示してくれるお節介機能付きのスクリプト

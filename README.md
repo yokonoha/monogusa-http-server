@@ -1,4 +1,4 @@
-# monogusa-http-server
+# p-http-server
 Pythonでhttpサーバーを立ち上げるときに、二次元コードも表示してくれるお節介機能付きのスクリプト  
 Python系をよく知らない方向け解説も書いておきました!(雑な説明で逆に分からなくなるかもしれませんが...)
 ## Prerequisite  
